@@ -19,3 +19,6 @@
 
 ## Currently Working On
 🚀 SMELA — an SME lending agent using RAG + LLMs for credit evaluation
+
+
+![Aniruddh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
