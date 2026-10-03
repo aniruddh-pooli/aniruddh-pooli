@@ -40,7 +40,15 @@
 
 ---
 
+## 📊 Competitive Programming
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/user2152rF/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/user2152rF?theme=dark&font=Karla&ext=heatmap)
+
+---
 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniruddh-pooli)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/user2152rF/)
